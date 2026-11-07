@@ -19,3 +19,6 @@ A GitHub Actions workflow builds Flutter Web and deploys it to GitHub Pages on e
 
 ## Important
 This starter app uses in-memory sample data. Orders reset when the app reloads. Connect Firebase or a REST backend before using it for real customer transactions.
+
+
+Deployment workflow: GitHub Actions builds the Flutter web bundle and publishes it to GitHub Pages after pushes to `main`.
